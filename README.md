@@ -1,4 +1,4 @@
-# UCI Extension Module 4 Entrance Exam
+# UCI Module 4 Assessment
 
 ## Learning Goals
 
